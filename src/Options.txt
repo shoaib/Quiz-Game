@@ -1,0 +1,22 @@
+Human Behavior,Insects,The origin and history of technical and scientific terms,The formation of rocks
+Europe,South America,North America,Asia
+1928,1938,1948,1958
+Electrical,Emblem,European,Electronic
+Swiss Dollar, Swiss Pound,Swiss Franc,Swiss Krona
+Jupiter,Venus,Earth,Mercury
+United Kingdom,Germany,China,Malaysia
+Byte,Gigabyte,Kilobyte,Megabyte
+Piano,Violin,Guitar,Trumpet
+Mark Zuckerburg,Bill Gates,Gabe Newell,Steve Austin
+2,3,4,5
+Collects Stamps,Collects Coins,Collects Paper,Collects Pens
+Mick Foley,Mickey Romney,Mick Johnson,Mickey Rooney
+Berlin,Paris,Amsterdam,London
+Berlin,Paris,Amsterdam,London
+Berlin,Paris,Amsterdam,London
+China,Taiwan,Japan,Indonesia
+8,9,10,11
+Justin Bieber,Lil Wayne,Michael Jackson,Johnny Cash
+443,438,434,417
+228,246,252,264
+Saqlain Mushtaq,Shane Warne,Muttiah Muralitharan,Anil Kumble
