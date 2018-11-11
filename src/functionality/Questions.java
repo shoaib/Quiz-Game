@@ -12,9 +12,9 @@ public class Questions {
 	/* Reads the files */
 	public void fileRead() throws IOException {
 		
-		File questionsFile = new File("D:/Questions.txt");
-		File optionsFile = new File("D:/Options.txt");
-		File answersFile = new File("D:/Answers.txt");
+		File questionsFile = new File("src/Questions.txt");
+		File optionsFile = new File("src/Options.txt");
+		File answersFile = new File("src/Answers.txt");
 
 
 		BufferedReader reader1 = new BufferedReader(new FileReader(questionsFile));
